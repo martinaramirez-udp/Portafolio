@@ -53,7 +53,7 @@ El dataset contiene múltiples variables macroeconómicas, demográficas y socia
 - Construir un nuevo DataFrame que contenga las componentes seleccionadas, el cual será utilizado como insumo para los modelos de clasificación posteriores.
 - Documentar de forma clara los pasos realizados y las decisiones metodológicas adoptadas.
 
-Etapa Final: Implementación y Comparación de Modelos de Clasificación
+### Etapa Final: Implementación y Comparación de Modelos de Clasificación
 
 En esta etapa final del proyecto se procede a la implementación de modelos de clasificación, con el propósito de evaluar el efecto de la reducción de dimensionalidad sobre el desempeño predictivo y la estructura del problema. Las fases de proyecto son las siguientes:
 
